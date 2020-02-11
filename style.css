@@ -11,11 +11,7 @@ body {
     border: none;
     outline: none;
     transition: 0.4s;
-<<<<<<< HEAD
     font-size: 2em;
-=======
-    font-size: 1.5em;
->>>>>>> 2f615a962139a814d42b24e9c2e8dd646b5a05c1
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
@@ -44,11 +40,8 @@ body {
     border-radius: 5px;
     background-color: #ccc;
 }
-<<<<<<< HEAD
 .icon-image {
     width: 100px;
     margin-bottom: 10px;
     display: block;
 }
-=======
->>>>>>> 2f615a962139a814d42b24e9c2e8dd646b5a05c1
