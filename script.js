@@ -9,10 +9,16 @@
 
                 /* Toggle between hiding and showing the active panel */
                 var panel = this.nextElementSibling;
+                var image = this.firstElementChild;
                 if (panel.style.display === "block") {
                     panel.style.display = "none";
                 } else {
                     panel.style.display = "block";
+                }
+                if (image.style.display === "none") {
+                    image.style.display = "block";
+                } else {
+                    image.style.display = "none";
                 }
             });
         }
